@@ -1,0 +1,18 @@
+CREDITS:
+
+
+TEXTURES:
+<p>
+dry+grass+ground-512x512.JPG Dry grass ground by the3rdSequence is licensed under a Creative Commons Attribution 4.0 International License.
+WEBSITE: https://www.the3rdsequence.com/texturedb/texture/53/dry+grass+ground/ LICENSE: https://creativecommons.org/licenses/by/4.0/
+</p>
+
+<p>
+Broken rock ground by the3rdSequence is licensed under a Creative Commons Attribution 4.0 International License.
+WEBSITE: https://www.the3rdsequence.com/texturedb/texture/52/broken+rock+ground/ LICENSE: https://creativecommons.org/licenses/by/4.0/
+</p>
+
+<p>
+Grunge rock stone by the3rdSequence is licensed under a Creative Commons Attribution 4.0 International License.
+WEBSITE: https://www.the3rdsequence.com/texturedb/texture/131/grunge+rock+stone/ LICENSE: https://creativecommons.org/licenses/by/4.0/
+</p>
